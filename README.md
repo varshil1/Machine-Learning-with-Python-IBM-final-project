@@ -16,4 +16,4 @@ The results is reported as the accuracy of each classifier, using the following 
 * LogLoass
 
 And the final result should look like this : 
-![FINAL RESULT](RESULT.jpg)
+![FINAL RESULT](RESULT.JPG)
